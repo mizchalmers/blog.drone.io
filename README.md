@@ -1,5 +1,5 @@
 blog.drone.io
-===========
+=============
 
 Blog for [Drone.io](https://drone.io) continuous integration service
 
